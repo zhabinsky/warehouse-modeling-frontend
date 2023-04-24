@@ -5,9 +5,9 @@ Potentially can be used to build a digital twin of your warehouse with navigatio
 
 <br/>
 
-## [Live Demo](https://github.com/zhabinsky/warehouse-modeling-frontend) 👈
+### [Live Demo](https://github.com/zhabinsky/warehouse-modeling-frontend) 👈
 
-## [YouTube Demo](https://youtu.be/Fv7VZ53C3mo) 👈
+### [YouTube Demo](https://youtu.be/Fv7VZ53C3mo) 👈
 
 <br/>
 
