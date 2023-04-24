@@ -1,4 +1,4 @@
-import { ShelfType } from "../utils/createShelf";
+import { ShelfType } from "../types/ShelfType";
 
 export type ShelfRectangle = {
   x: number;
