@@ -49,6 +49,6 @@ SOFTWARE.
 
 I was just prototyping, therefore if you ever use this code:
 
-- Double-check how build works, it just ignores a lot of type errors caused by mui+r3f type conflicts (weird bug :P).
+- Double-check how build works, it just ignores a lot of type errors caused by mui+r3f type conflicts (weird bug xoxo).
 - Ideally double-check whether project structure is ok, I'd say it could be tidier (components are scattered, e.g. shelf related components could be grouped)
 - Refactor Shelf3D slightly to use InstancedMesh, current solution is quicker, but won't perform when you build shelves with large quantities of shelves
