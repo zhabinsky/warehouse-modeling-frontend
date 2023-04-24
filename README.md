@@ -1,4 +1,4 @@
-# Warehouse Management Frontend
+# Warehouse Modeling Frontend
 
 A simple demo app that let's you configure the layout of warehouse shelves.
 Potentially can be used to build a digital twin of your warehouse with navigation, storage history etc.
@@ -7,8 +7,7 @@ Potentially can be used to build a digital twin of your warehouse with navigatio
 
 ## [Live Demo](https://google.com) 👈
 
-<br/>    
-
+<br/>
 
 ![Screenshot](https://raw.githubusercontent.com/zhabinsky/warehouse-modeling-frontend/master/screenshot.png)
 
