@@ -3,7 +3,7 @@
 A simple demo app that let's you configure the layout of warehouse shelves.
 Potentially can be used to build a digital twin of your warehouse with navigation, storage history etc.
 
-### [Live Demo](https://github.com/zhabinsky/warehouse-modeling-frontend) 👈
+### [Live Demo](https://zhabinsky.github.io/warehouse-modeling-frontend/) 👈
 
 ### [YouTube Demo](https://youtu.be/Fv7VZ53C3mo) 👈
 
